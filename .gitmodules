@@ -1,0 +1,9 @@
+[submodule "social-x-backend"]
+	path = social-x-backend
+	url = git@github.com:yoyocraft/social-x-backend.git
+[submodule "social-x-frontend"]
+	path = social-x-frontend
+	url = git@github.com:yoyocraft/social-x-frontend.git
+[submodule "social-x-detection"]
+	path = social-x-detection
+	url = git@github.com:yoyocraft/social-x-detection.git
